@@ -108,3 +108,105 @@ Optimizar estrategias de adquisición de clientes y logística podría aumentar 
     </table>
 </body>
 </html>
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ROI - Style Space</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 40px;
+            background-color: #f4f4f4;
+            text-align: center;
+        }
+        h1, h2 {
+            color: #333;
+        }
+        table {
+            width: 80%;
+            margin: 20px auto;
+            border-collapse: collapse;
+            background: white;
+            box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+        }
+        th, td {
+            padding: 12px;
+            border: 1px solid #ddd;
+            text-align: center;
+        }
+        th {
+            background: #4CAF50;
+            color: white;
+        }
+        tr:nth-child(even) {
+            background: #f9f9f9;
+        }
+        p {
+            width: 80%;
+            margin: 20px auto;
+            text-align: justify;
+            font-size: 16px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Style Space - Retorno de Inversión (ROI)</h1> 
+    <h2>Estimación de Ingresos</h2>
+    <p>En el primer año, se proyecta captar los siguientes miembros:</p>
+    <table>
+        <tr>
+            <th>Plan</th>
+            <th>Miembros</th>
+            <th>Precio Mensual ($)</th>
+            <th>Ingresos Anuales ($)</th>
+        </tr>
+        <tr><td>Essential Space</td><td>500</td><td>9.99</td><td>59,940</td></tr>
+        <tr><td>Style Plus</td><td>300</td><td>29.99</td><td>107,964</td></tr>
+        <tr><td>Style Pro</td><td>100</td><td>79.99</td><td>95,988</td></tr>
+        <tr><td><strong>Total</strong></td><td><strong>900</strong></td><td>-</td><td><strong>263,892</strong></td></tr>
+    </table>
+    <h2>Estimación de Costos</h2>
+    <table>
+        <tr>
+            <th>Concepto</th>
+            <th>Monto ($)</th>
+        </tr>
+        <tr><td>Producción y almacenamiento de mobiliario</td><td>80,000</td></tr>
+        <tr><td>Envíos y logística</td><td>40,000</td></tr>
+        <tr><td>Marketing y publicidad</td><td>30,000</td></tr>
+        <tr><td>Desarrollo y mantenimiento web</td><td>20,000</td></tr>
+        <tr><td>Asesoría de diseño en Plan Élite</td><td>15,000</td></tr>
+        <tr><td>Otros costos operativos</td><td>20,000</td></tr>
+        <tr><td><strong>Total costos operativos</strong></td><td><strong>205,000</strong></td></tr>
+    </table>
+    <h2>Inversión Inicial</h2>
+    <table>
+        <tr>
+            <th>Concepto</th>
+            <th>Monto ($)</th>
+        </tr>
+        <tr><td>Diseño y prototipado de mobiliario</td><td>50,000</td></tr>
+        <tr><td>Desarrollo del e-commerce</td><td>30,000</td></tr>
+        <tr><td>Publicidad inicial y branding</td><td>20,000</td></tr>
+        <tr><td><strong>Total inversión inicial</strong></td><td><strong>100,000</strong></td></tr>
+    </table>
+    <h2>Cálculo del ROI</h2>
+    <p>El Retorno de Inversión (ROI) se obtiene con la siguiente fórmula:</p>
+    <p><strong>ROI = (Ganancia neta / Inversión inicial) × 100</strong></p>
+    <p>Donde:</p>
+    <p><strong>Ganancia neta = Ingresos - Costos operativos</strong></p>
+    <p>Ganancia neta = $263,892 - $205,000 = $58,892</p>
+    <p><strong>ROI = (58,892 / 100,000) × 100 = 58.89%</strong></p>
+    <h2>Conclusión</h2>
+    <p>Si Style Space logra estos números en el primer año, el ROI sería del 58.89%, lo que indica que más de la mitad de la inversión inicial se recuperaría en el primer año.</p>
+    <p>Para optimizar estos resultados, se podrían implementar estrategias como:</p>
+    <ul>
+        <li>Aumentar la cantidad de miembros mediante publicidad y diferenciación de beneficios.</li>
+        <li>Ajustar los precios de los planes premium en caso de alta demanda.</li>
+        <li>Optimizar costos de producción y logística.</li>
+    </ul>
+</body>
+</html>
