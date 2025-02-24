@@ -114,43 +114,6 @@ Optimizar estrategias de adquisición de clientes y logística podría aumentar 
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>ROI - Style Space</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 40px;
-            background-color: #f4f4f4;
-            text-align: center;
-        }
-        h1, h2 {
-            color: #333;
-        }
-        table {
-            width: 80%;
-            margin: 20px auto;
-            border-collapse: collapse;
-            background: white;
-            box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
-        }
-        th, td {
-            padding: 12px;
-            border: 1px solid #ddd;
-            text-align: center;
-        }
-        th {
-            background: #4CAF50;
-            color: white;
-        }
-        tr:nth-child(even) {
-            background: #f9f9f9;
-        }
-        p {
-            width: 80%;
-            margin: 20px auto;
-            text-align: justify;
-            font-size: 16px;
-        }
-    </style>
 </head>
 <body>
     <h1>Style Space - Retorno de Inversión (ROI)</h1> 
