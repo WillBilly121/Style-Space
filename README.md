@@ -7,10 +7,9 @@ Elige sin dudar
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Tabla de Salarios</title>
     <style>
-        body {
-            font-family: Arial, sans-serif;
-            text-align: center;
-            margin: 50px;
+        body {jsjsjsjsjs
+    
+
         }
         table {
             width: 80%;
