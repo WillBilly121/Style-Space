@@ -76,10 +76,9 @@ La distribución de salarios refleja que el equipo directivo tiene un enfoque ba
     <title>ROI - Style Space</title>
     <style>
         body {
-            font-family: Arial, sans-serif;
-            margin: 40px;
-            background-color: #f4f4f4;
-            text-align: center;
+           Style Space podría recuperar más de la mitad de la inversión en el primer año.
+El modelo de membresía es escalable, con margen de mejora en costos y precios.
+Optimizar estrategias de adquisición de clientes y logística podría aumentar la rentabilidad.
         }
         h1 {
             color: #333;
