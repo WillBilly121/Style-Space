@@ -7,24 +7,7 @@ Elige sin dudar
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Tabla de Salarios</title>
     <style>
-        body {jsjsjsjsjs
-    
-
-        }
-        table {
-            width: 80%;
-            margin: 0 auto;
-            border-collapse: collapse;
-        }
-        th, td {
-            border: 1px solid black;
-            padding: 10px;
-            text-align: center;
-        }
-        th {
-            background-color: #f2f2f2;
-        }
-    </style>
+        body {jsjsjsjsjs}
 </head>
 <body>
     <h2>Tabla de Salarios</h2>
