@@ -5,7 +5,6 @@ Elige sin dudar
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
         body {Ganancia neta anual ($58,892) es menos que el presupuesto para salarios ($500,000), lo que muestra que, aunque la empresa está generando ganancias, el presupuesto para salarios es significativamente mayor, lo que podría indicar que se están invirtiendo recursos para un crecimiento acelerado.
 
 La distribución de salarios refleja que el equipo directivo tiene un enfoque balanceado entre liderazgo (CEO), ventas y generación de ingresos (Director de Ventas y Directora de Producto/Tecnología), y la estrategia a largo plazo (Directora de Estrategias y Directora de Experiencia del Cliente).}
