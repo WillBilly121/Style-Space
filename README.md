@@ -76,20 +76,7 @@ La distribución de salarios refleja que el equipo directivo tiene un enfoque ba
            Style Space podría recuperar más de la mitad de la inversión en el primer año.
 El modelo de membresía es escalable, con margen de mejora en costos y precios.
 Optimizar estrategias de adquisición de clientes y logística podría aumentar la rentabilidad.
-        }
-        th, td {
-            padding: 12px;
-            border: 1px solid #ddd;
-            text-align: center;
-        }
-        th {
-            background: #4CAF50;
-            color: white;
-        }
-        tr:nth-child(even) {
-            background: #f9f9f9;
-        }
-    </style>
+    
 </head>
 <body>
     <h1>Style Space - Retorno de Inversión (ROI)</h1> 
