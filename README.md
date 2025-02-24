@@ -1,4 +1,5 @@
-https://github.com/WillBilly121/Style-Space/blob/main/Style%20Space.jpg?raw=true
+![image](https://github.com/user-attachments/assets/c82559d7-f83e-4184-bea8-ffd51e613035)
+
 # Style-Space
 Elige sin dudar
 <!DOCTYPE html>
