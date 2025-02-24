@@ -77,16 +77,6 @@ La distribución de salarios refleja que el equipo directivo tiene un enfoque ba
 El modelo de membresía es escalable, con margen de mejora en costos y precios.
 Optimizar estrategias de adquisición de clientes y logística podría aumentar la rentabilidad.
         }
-        h1 {
-            color: #333;
-        }
-        table {
-            width: 80%;
-            margin: 20px auto;
-            border-collapse: collapse;
-            background: white;
-            box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
-        }
         th, td {
             padding: 12px;
             border: 1px solid #ddd;
