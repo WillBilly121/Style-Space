@@ -73,7 +73,9 @@ La distribución de salarios refleja que el equipo directivo tiene un enfoque ba
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-           Style Space podría recuperar más de la mitad de la inversión en el primer año.
+         
+    
+Style Space podría recuperar más de la mitad de la inversión en el primer año.
 El modelo de membresía es escalable, con margen de mejora en costos y precios.
 Optimizar estrategias de adquisición de clientes y logística podría aumentar la rentabilidad.
     
